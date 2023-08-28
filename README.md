@@ -1,1 +1,1 @@
-# Sistem Informasi Akuntansi Masjid
+# Accountanting_management_codeigniter
